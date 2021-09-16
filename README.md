@@ -1,2 +1,9 @@
 # front-end-interview
-front-end developers interview questions summary
+
+本项目用于记录个人所收集到的前端面试题
+
+
+图例说明
+1. 📗 已作答
+2. 🕛 待回答
+3. 📕 无法理解
